@@ -39,3 +39,7 @@ The program stores the reconstructed 2D grid.
 
 ```bash
 pip install -r requirements.txt
+
+
+## Usage
+print_grid("YOUR_GOOGLE_DOC_URL")
