@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+
+Usage
+print_grid("YOUR_GOOGLE_DOC_URL")
